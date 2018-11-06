@@ -1,0 +1,13 @@
+{
+    "scripts": {
+        "cypress:run": "cypress run",
+        "cypress:open": "cypress open",
+        "cy": "cypress open --env configFile=mobile"
+    },
+    "dependencies": {
+        "tesseract.js": "^1.0.10"
+    },
+    "devDependencies": {
+        "cypress": "^3.1.1"
+    }
+}
